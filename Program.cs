@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GITKU saved the world!");
+            Console.WriteLine("GITKU saved the world! Yay!");
             Console.WriteLine("        ");
             Console.WriteLine("   ***   ");
             Console.WriteLine("  *****  ");
